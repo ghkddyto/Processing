@@ -6,7 +6,7 @@
 
 ## 2장 코드
 * https://github.com/ghkddyto/Processing/blob/master/Rep5-2.md
-* 글자로 만든 배너가 좌우로 움직이는 프로그램입니다.
+* 글자로 만든 배너가 좌우로 움직이는 프로그램입니다. 키보드로 속도를 조절할 수 있습니다.
 
 ## 3장 코드
 * https://github.com/ghkddyto/Processing/blob/master/Rep5-3.md
