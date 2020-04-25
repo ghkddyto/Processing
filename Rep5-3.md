@@ -48,5 +48,5 @@ void star(float x, float y, float radius1, float radius2, int npoints) {
 
 ### 코드 설명
 
-별을 만드는 star 함수를 미리 만들어 놓고 push&popMatrix로 여러가지의 별이 나오게 합니다.
-star 함수안의 angle값을 바꿔 회전하는 속도를 조절할 수 있습니다.
+* 별을 만드는 star 함수를 미리 만들어 놓고 push&popMatrix로 여러가지의 별이 나오게 합니다.
+* star 함수안의 angle값을 바꿔 회전하는 속도를 조절할 수 있습니다.
